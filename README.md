@@ -8,11 +8,21 @@ Tools Used:
 2. PowerPoint
 3. Word
 
-Files Included:
-1. Cleaned Excel file with pivot tables and dashboards
-2. Presentation
+Project deliverables:
+1. Cleaned Excel dataset with pivot tables and dashboards
+2. Presentation (PPT)
 3. Screenshots of dashboards for sales, customer and product category analysis
 4. Project documentation PDF
+
+Skills demonstrated:
+1. Data Cleaning
+2. Pivot Tables
+3. Dashboard Design
+4. KPI Reporting
+5. Customer Segmentation
+6. Trend Analysis
+7. Business Storytelling
+8. Strategic Recommendations
 
 Key Insights:
 1. Electronics drove highest revenue
@@ -24,4 +34,6 @@ Recommendations:
 1. Focus electronics growth
 2. Improve clothing monetization
 3. Target high-value customer segments
+4. Use seasonal trends to replicate high-performing months and improve weaker periods.
+5. Apply cross-selling and upselling to increase average order value.
 
